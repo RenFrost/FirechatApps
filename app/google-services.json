@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87644476648",
+    "firebase_url": "https://chatfire-2d46f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatfire-2d46f",
+    "storage_bucket": "chatfire-2d46f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87644476648:android:e227251c32640088a2655d",
+        "android_client_info": {
+          "package_name": "com.example.firechatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87644476648-kfcru6lnl3i4a8cr0tmcduc4454fr9e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPbQKN3ajPkmPViVeisICL05Ezrjlyj-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87644476648-kfcru6lnl3i4a8cr0tmcduc4454fr9e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

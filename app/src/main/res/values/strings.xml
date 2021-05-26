@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirechatApps</string>
+    <string name="not_member_register_now">Not Member? Register Now</string>
+    <string name="login_now">Login Now</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login_activity">Login Activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
